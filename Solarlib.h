@@ -49,9 +49,10 @@
 #ifndef Solarlib_h
 #define Solarlib_h
 
-#include "Arduino.h"
+// #include "Arduino.h"
 #include "math.h"
-#include "Time.h"
+// #include "Time.h"
+#include "time.h"
 
 #define julianUnixEpoch  2440587.5 // julian days to start of unix epoch
 
